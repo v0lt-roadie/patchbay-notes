@@ -1,2 +1,0 @@
-SSID: FERRUGEM_BACK
-pass: ferro1234
